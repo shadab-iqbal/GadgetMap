@@ -6,4 +6,4 @@ A sample website for GadgetMap app. This website shows the features of the app, 
 
 Site link: https://shadab-iqbal.github.io/GadgetMap/
 
-![image](https://user-images.githubusercontent.com/68025292/196958704-d2d41150-301f-48fd-8d7a-96503c5021f4.png)
+![image](https://user-images.githubusercontent.com/68025292/196995615-1da71092-9d36-4e33-a22f-4907b1a67416.png)
