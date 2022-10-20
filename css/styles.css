@@ -39,7 +39,7 @@ h3 {
 /* ----- Title ----- */
 
 #title {
-    background-color: #36285c;
+    background-color: #284c5c;
     color: white;
     text-align: left;
 }
@@ -79,7 +79,7 @@ h3 {
 }
 
 .feature-icon {
-    color: #614d91;
+    color: #4d7691;
     margin-bottom: 1rem;
 }
 
@@ -100,7 +100,7 @@ h3 {
 /* ----- Testimonial Section -----  */
 
 #testimonials {
-    background-color: #614d91;
+    background-color: #4d7691;
     color: white;
 }
 
@@ -125,7 +125,7 @@ h3 {
 /* ----- Press Section -----  */
 
 #press {
-    background-color: #614d91;
+    background-color: #4d7691;
     padding-bottom: 7%;
 }
 
@@ -240,7 +240,7 @@ h3 {
     content: "";
     height: 100%;
     width: 100%;
-    background: #36285c;
+    background: #284c5c;
 
     z-index: -1;
     position: absolute;
@@ -263,7 +263,7 @@ h3 {
 /* ----- CTA section ----- */
 
 #cta {
-    background-color: #36285c;
+    background-color: #284c5c;
     padding: 5% 5% 0;
     color: white;
     font-family: 'Montserrat-Black', sans-serif;
